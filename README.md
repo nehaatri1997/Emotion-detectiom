@@ -1,4 +1,4 @@
-# Emotion-detectiom
+# Emotion-detection
 
 This project uses Hugging Face Transformers to analyze emotions from text input. It leverages the pre-trained model j-hartmann/emotion-english-distilroberta-base for accurate emotion classification. Additionally, it includes optional camera integration for capturing text input to analyze emotions.
 
@@ -12,7 +12,7 @@ Provides probability scores for each detected emotion.
 
 # Installation
 1. Clone the Repository
-git clone https://github.com/your-repo-name/emotion-detection.git
+git clone [https://github.com/your-repo-name/emotion-detection.git](https://github.com/nehaatri1997/Emotion-detectiom/blob/main/emotion_detection.py)
 cd emotion-detection
 2. Install Required Libraries
 Install the dependencies listed in the script:
